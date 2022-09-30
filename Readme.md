@@ -34,3 +34,9 @@ Now to make it even more odd if we now right click in visual studio on the solut
 The ParenProject/packages.lock.json is getting fixed making the previously failing step succeeding again.
 
 This feels like a bug or am I missing configuration thing in this case?
+
+# Fixed
+Hi, if your reading this and still face this issue as well update to a newer version of your .net sdk
+- .netcore3.1 should be fixed since 3.1.26 (SDK 3.1.420)
+- .net6 should be fixed since 6.0.6 (SDK 6.0.301)
+- .net7 should be fixed since preview 5 (SDK 7.0.100-preview.5)
